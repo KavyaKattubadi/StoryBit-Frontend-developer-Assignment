@@ -1,0 +1,1 @@
+See the README.md and AI_Report.md. This skeleton follows the StoryBit Frontend assignment requirements.
