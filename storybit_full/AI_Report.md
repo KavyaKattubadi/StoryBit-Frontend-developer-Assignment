@@ -1,7 +1,7 @@
 # AI Usage Report (StoryBit Streaming Dashboard)
 
-**Candidate:** [Your Name Here]  
-**Date:** [Add submission date]
+**Candidate:** Kavya Kattubadi  
+**Date:** 14-11-2025
 
 ## Tools used
 - **ChatGPT (OpenAI)** — helped scaffold project files, generate TypeScript interfaces, React components, and helper functions.
@@ -20,10 +20,10 @@
 - Iterated prompts to improve: image handling with Next `<Image/>`, ensuring server-only use of `process.env.TMDB_API_KEY`, and responsive layout.
 
 ## Manual changes / candidate responsibilities
-- Replace `[Your Name Here]` and `[Add submission date]` above.
-- Add GitHub repo URL: `https://github.com/yourusername/your-repo`
-- Add Vercel live URL: `https://your-project.vercel.app`
-- Verify TMDB API key is set in Vercel env vars.
+- Candidate: Kavya Kattubadi  
+  Date: 14-11-2025
+- GitHub repo URL: `https://github.com/KavyaKattubadi/StoryBit-Frontend-developer-Assignment.git`
+
 
 ## How to verify
 1. Run locally with `npm run dev` and check homepage loads movie rows.
